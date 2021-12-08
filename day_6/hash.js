@@ -58,9 +58,6 @@ const timeSimulation = function(days) {
 
 timeSimulation(256)
 
-// console.log(hash)
-
-
 let result = Object.values(hash)
 
 let counter = 0
